@@ -24,6 +24,7 @@ bin_PROGRAMS = \
 	idevicedate \
 	idevicebackup \
 	idevicebackup2 \
+	ideviceconfig \
 	ideviceprovision \
 	idevicedebugserverproxy \
 	idevicediagnostics \
